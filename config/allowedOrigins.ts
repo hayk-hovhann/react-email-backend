@@ -1,1 +1,1 @@
-export const allowedOrigins = ["https://www.yoursite.com", "http://127.0.0.1:5500", "http://localhost:8080", "https://www.google.com"]
+export const allowedOrigins = ["https://react-email-client.onrender.com"]
